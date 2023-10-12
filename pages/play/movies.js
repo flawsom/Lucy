@@ -62,7 +62,7 @@ const Movies = () => {
     }, [])
     return (<>
         <Head>
-            <title>Play Movies | Yaps</title>
+            <title>Play Movies | Lucy</title>
         </Head>
         <div
             className={` top-0 left-0 z-[997] bg-[#222222] transition duration-300 ease-in-out ${lightStatus ? 'opacity-1 fixed w-full h-screen ' : 'opacity-0 h-0 w-0'}`}>

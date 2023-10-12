@@ -40,7 +40,7 @@ const Dashboard = () => {
     <>
     
      <Head>
-        <title>Dashboard | Yaps</title>
+        <title>Dashboard | Lucy</title>
       </Head>
       <div className="flex justify-center">
 

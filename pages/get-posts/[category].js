@@ -164,7 +164,7 @@ const Latest = () => {
     return (
         <div className='font-montserrat text-center'>
             <Head>
-                <title>Browse | Yaps</title>
+                <title>Browse | Lucy</title>
             </Head>
             {!movieList.length > 0 ? <Loader/> : null}
             <div className='w-full justify-end'>

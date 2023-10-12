@@ -64,7 +64,7 @@ const Register = () => {
   return (
     <div className='flex h-[90vh] justify-center items-center'>
        <Head>
-        <title>Register | Yaps</title>
+        <title>Register | Lucy</title>
       </Head>
       {loader ? <Loader /> : null}
       <div className='flex-colomn w-[90%] text-center'>
