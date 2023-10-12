@@ -72,7 +72,7 @@ const Home = () => {
   return (
     <div className='font-montserrat  container mx-auto min-h-screen justify-center bg-transparent  py-3 text-center font-light'>
       <Head>
-        <title>Search | Lucy</title>
+        <title>Search | Lucyy</title>
       </Head>
       {loader ? <Loader /> : null}
       <div>

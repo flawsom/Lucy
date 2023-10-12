@@ -25,7 +25,7 @@ export default function TV() {
   return (
     <>
       <Head>
-        <title>{tv.detail.name} | Lucy</title>
+        <title>{tv.detail.name} | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for TV series'

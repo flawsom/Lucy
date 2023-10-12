@@ -19,7 +19,7 @@ export default function PopularMovies() {
   return (
     <div>
       <Head>
-        <title>Popular Movies | Lucy</title>
+        <title>Popular Movies | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for movies'

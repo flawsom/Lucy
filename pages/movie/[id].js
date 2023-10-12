@@ -47,7 +47,7 @@ const handleClose =()=>{
     <>
    
       <Head>
-        <title>{movie?.detail?.title} | Lucy</title>
+        <title>{movie?.detail?.title} | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for movies'

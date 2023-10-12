@@ -19,7 +19,7 @@ export default function TopRatedMovies() {
   return (
     <div>
       <Head>
-        <title>Top Rated Movies | Lucy</title>
+        <title>Top Rated Movies | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for movies'

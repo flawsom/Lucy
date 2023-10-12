@@ -12,7 +12,7 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>Home | Lucy</title>
+                <title>Home | Lucyy</title>
             </Head>
             <SearchBar searchPath={pathToSearchAll}/>
             {/*Continue watching*/}

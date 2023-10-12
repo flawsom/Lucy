@@ -149,7 +149,7 @@ const Details = () => {
     <div>
       {loader ? <Loader /> : null}
       <Head>
-        <title>{data?.name} | Lucy</title>
+        <title>{data?.name} | Lucyy</title>
       </Head>
       <div className='m-auto w-full pb-5'>
         <div className='dark:bg-card flex w-full flex-col justify-start rounded-lg border-gray-200 border-opacity-30  bg-gray-600 bg-opacity-10 p-10  md:flex-row'>

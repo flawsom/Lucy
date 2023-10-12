@@ -19,7 +19,7 @@ export default function TrendingTVSeries() {
   return (
     <div>
       <Head>
-        <title>Trending TV Series | Lucy</title>
+        <title>Trending TV Series | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for TV Series'

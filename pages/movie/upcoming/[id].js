@@ -19,7 +19,7 @@ export default function UpcomingMovies() {
   return (
     <div>
       <Head>
-        <title>Upcoming Movies | Lucy</title>
+        <title>Upcoming Movies | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for movies'

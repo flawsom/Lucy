@@ -19,7 +19,7 @@ export default function TVSeriesOnTheAir() {
   return (
     <div>
       <Head>
-        <title>TV Series On The Air | Lucy</title>
+        <title>TV Series On The Air | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for TV Series'

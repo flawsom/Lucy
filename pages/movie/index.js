@@ -8,7 +8,7 @@ export default function Movie({ data }) {
   return (
     <>
       <Head>
-        <title>Movies | Lucy</title>
+        <title>Movies | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for movies'

@@ -62,7 +62,7 @@ const LendingPage = () => {
   return (
     <div className='font-montserrat z-10 !overflow-visible text-center'>
       <Head>
-        <title>Top 10 Movies | Lucy</title>
+        <title>Top 10 Movies | Lucyy</title>
       </Head>
       {loader ? <Loader /> : null}
       <br />

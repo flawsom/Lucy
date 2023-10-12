@@ -19,7 +19,7 @@ export default function TrendingMovies() {
   return (
     <div>
       <Head>
-        <title>Trending Movies | Lucy</title>
+        <title>Trending Movies | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for movies'

@@ -19,7 +19,7 @@ export default function TopRatedTVSeries() {
   return (
     <div>
       <Head>
-        <title>Top Rated TV Series | Lucy</title>
+        <title>Top Rated TV Series | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for TV Series'

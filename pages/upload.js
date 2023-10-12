@@ -298,7 +298,7 @@ useEffect(()=>{
   return (
     <div>
        <Head>
-        <title>Upload | Lucy</title>
+        <title>Upload | Lucyy</title>
       </Head>
       {loader ? <Loader /> : null}
       <div className='w-[50%] pb-5 m-auto'>

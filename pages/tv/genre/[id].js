@@ -15,7 +15,7 @@ export default function GenreTV({ data, id, name, page }) {
   return (
     <div>
       <Head>
-        <title>{name} - TV Series | Lucy</title>
+        <title>{name} - TV Series | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for TV series'

@@ -8,7 +8,7 @@ export default function TV({ data }) {
   return (
     <>
       <Head>
-        <title>TV Series | Lucy</title>
+        <title>TV Series | Lucyy</title>
       </Head>
       <SearchBar
         placeholder='Search for TV series'

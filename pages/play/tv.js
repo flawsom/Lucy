@@ -174,7 +174,7 @@ const Tv = () => {
     return (
         <>
             <Head>
-                <title>Play Tv | Lucy</title>
+                <title>Play Tv | Lucyy</title>
             </Head>
             <div
                 className={`w-full  top-0 left-0 z-[997] bg-black transition duration-300 ease-in-out ${lightStatus ? 'opacity-1 fixed h-screen ' : 'opacity-0 h-0 w-0'}`}>
